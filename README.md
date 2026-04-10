@@ -6,7 +6,7 @@ This n8n workflow runs daily, analyzes all WooCommerce orders to calculate SKU-w
 
 ### Quick Implementation Steps (Get Started Fast)
 
-1. Import the workflow JSON into your n8n instance.
+1. Import the workflow JSON into your [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi).
 2. Connect WooCommerce, Gmail and Slack credentials.
 3. Set the Schedule Trigger to run daily.
 4. Update email recipients and Slack channel.
