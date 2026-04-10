@@ -37,7 +37,7 @@ This workflow is ideal for:
 
 To use this workflow, you will need:
 
-- An active **n8n** instance
+- An active **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** 
 - A **WooCommerce store** with:
   - Products using SKUs
   - Stock management enabled
